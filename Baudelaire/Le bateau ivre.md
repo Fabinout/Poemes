@@ -1,6 +1,3 @@
-Le bateau ivre       
-_Arthur Rimbaud_       
-
 Comme je descendais des Fleuves impassibles,       
 Je ne me sentis plus guidé par les haleurs :       
 Des Peaux-Rouges criards les avaient pris pour cibles,       
@@ -126,4 +123,4 @@ Enlever leur sillage aux porteurs de cotons,
 Ni traverser l’orgueil des drapeaux et des flammes,       
 Ni nager sous les yeux horribles des pontons.       
 
-_Arthur Rimbaud, Poésies_       
+_Poésies_       
